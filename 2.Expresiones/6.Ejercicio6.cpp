@@ -18,7 +18,7 @@ int main()
 	
 	promedio = (n1 + n2 + n3 + n4) / 4;
 	
-	cout.precision(2);
+	cout.precision(3);
 	cout<<"\nLa nota final media de los cuatro alumnos es: "<<promedio<<endl;
 	
 	return 0;

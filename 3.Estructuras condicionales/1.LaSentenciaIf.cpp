@@ -2,10 +2,12 @@
 // 202510050077
 /* La sentencia if
 
-	if(condicion){
+	if(condicion)
+	{
 		Instrucciones 1;
 	}
-	else{
+	else
+	{
 		Instrucciones 2;
 	}
 */
